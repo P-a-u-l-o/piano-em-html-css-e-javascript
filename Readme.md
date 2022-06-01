@@ -4,10 +4,10 @@ Projeto de manipulação do DOM com JavaScript.
 A realização deste projeto se deu através do Masterclass Rocketseat,
 tendo como referências base os seguintes projetos:
 
-    https://codepen.io/Eliteware/pen/wDHIC
-    https://codepen.io/gabrielcarol/pen/rGeEbY
+https://codepen.io/Eliteware/pen/wDHIC
+https://codepen.io/gabrielcarol/pen/rGeEbY
 
-    Você pode tocar o teclado com o mouse ou o próprio teclado do PC
+Você pode tocar o teclado com o mouse ou o próprio teclado do PC
 
 # Musical keyboard using HTML CSS & JAVASCRIPT
 
