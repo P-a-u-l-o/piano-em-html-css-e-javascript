@@ -1,4 +1,4 @@
-#Teclado musical utilizando HTML CSS E JAVASCRIPT
+# Teclado musical utilizando HTML CSS E JAVASCRIPT
 
 Projeto de manipulação do DOM com JavaScript.
 A realização deste projeto se deu através do Masterclass Rocketseat,
@@ -9,7 +9,7 @@ tendo como referências base os seguintes projetos:
 
     Você pode tocar o teclado com o mouse ou o próprio teclado do PC
 
-#Musical keyboard using HTML CSS & JAVASCRIPT
+# Musical keyboard using HTML CSS & JAVASCRIPT
 
 Project of DOM manipulation with JavaScript.
 This project were did troughth Masterclass Rocketseat,
