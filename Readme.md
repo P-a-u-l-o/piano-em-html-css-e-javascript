@@ -17,3 +17,5 @@ and had your references based on links of the projects above.
 You can play the keyboard with your mouse or own keyboard pc.
 
 <img src="assets/images/Piano.jpg">
+
+You can play clicking here: https://p-a-u-l-o.github.io/piano-em-html-css-e-javascript/
