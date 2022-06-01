@@ -16,4 +16,4 @@ This project were did troughth Masterclass Rocketseat,
 and had your references based on links of the projects above.
 You can play the keyboard with your mouse or own keyboard pc.
 
-    <img src = "assets/images/Piano.jpg">
+<img src="assets/images/Piano.jpg">
